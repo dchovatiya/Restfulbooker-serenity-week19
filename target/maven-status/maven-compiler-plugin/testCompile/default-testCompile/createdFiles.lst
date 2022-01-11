@@ -1,0 +1,4 @@
+com\herokuapp\booker\bookerinfo\GetAuthToken.class
+com\herokuapp\booker\testbase\TestBase.class
+com\herokuapp\booker\bookerinfo\BookingCURDTestWithSteps.class
+com\herokuapp\booker\bookerinfo\AuthCURDTestWithSteps.class
